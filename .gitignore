@@ -1,0 +1,9 @@
+env/
+.env
+files/
+.cache/
+.streamlit/
+/pagesvar/
+/embeddings/
+/node_modules/
+/learn/
